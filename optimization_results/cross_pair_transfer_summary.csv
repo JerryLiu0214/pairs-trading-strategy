@@ -1,0 +1,3 @@
+Config,Cases,DD_Improved_Cases,Avg_DD_Improvement_pp,Avg_Return_Difference_pp,Sharpe_Improved_Cases
+"Stop=3.0, Hold=60",12,9,4.399527267269786,-4.773583671949939,2
+"Stop=None, Hold=60",12,3,0.629082758079791,-6.5686247788136685,0

@@ -1,0 +1,14 @@
+{
+  "source": "Yahoo Finance via yfinance",
+  "download_run_date": "2026-11-18",
+  "requested_start": "2010-01-01",
+  "requested_end_exclusive": "2026-11-19",
+  "auto_adjust": true,
+  "adjustment_note": "Close from yfinance auto_adjust=True, intended split/dividend adjusted historical close",
+  "ticker_list_source": "clean_prices.csv",
+  "requested_tickers": 485,
+  "available_tickers": 485,
+  "missing_tickers": [],
+  "no_global_dropna": true,
+  "survivorship_bias_warning": "Today's/listed universe is not historical point-in-time S&P 500 membership"
+}
