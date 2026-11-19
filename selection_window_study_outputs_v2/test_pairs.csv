@@ -1,0 +1,11 @@
+Ticker A,Ticker B,P Value,T Statistic,N Common,Status,BH Adjusted P,BH Significant,Selection Basis,Sector A,Sub-Industry A,Sector B,Sub-Industry B
+CDNS,SNPS,9.073392162970409e-07,-6.11628192407568,2516,ok,0.0009817410320333982,True,BH-significant,Information Technology,Application Software,Information Technology,Application Software
+ADBE,CRM,0.0001160949357817075,-5.081859442913308,2516,ok,0.045338790365856904,True,BH-significant,Information Technology,Application Software,Information Technology,Application Software
+GOOG,GOOGL,0.00012570829121771784,-5.063333680355356,2516,ok,0.045338790365856904,True,BH-significant,Communication Services,Interactive Media & Services,Communication Services,Interactive Media & Services
+MA,V,0.00048431252868214665,-4.73814708964451,2516,ok,0.13100653900852066,False,Top-p fill (not BH-significant),Financials,Transaction & Payment Processing Services,Financials,Transaction & Payment Processing Services
+ABT,RMD,0.0012888648366930458,-4.48647532935041,2516,ok,0.25723833640254506,False,Top-p fill (not BH-significant),Health Care,Health Care Equipment,Health Care,Health Care Equipment
+DRI,YUM,0.0017139494656075746,-4.410150679253222,2516,ok,0.25723833640254506,False,Top-p fill (not BH-significant),Consumer Discretionary,Restaurants,Consumer Discretionary,Restaurants
+ADI,MCHP,0.001832254199837839,-4.392056859426925,2516,ok,0.25723833640254506,False,Top-p fill (not BH-significant),Information Technology,Semiconductors,Information Technology,Semiconductors
+GWW,HUBB,0.0023489789527771244,-4.323932634759437,2516,ok,0.25723833640254506,False,Top-p fill (not BH-significant),Industrials,Industrial Machinery & Supplies & Components,Industrials,Industrial Machinery & Supplies & Components
+BAC,PNC,0.0026607381945173147,-4.289277774713402,2516,ok,0.25723833640254506,False,Top-p fill (not BH-significant),Financials,Diversified Banks,Financials,Diversified Banks
+JNJ,VTRS,0.002690517024042751,-4.2861666093730095,2516,ok,0.25723833640254506,False,Top-p fill (not BH-significant),Health Care,Pharmaceuticals,Health Care,Pharmaceuticals

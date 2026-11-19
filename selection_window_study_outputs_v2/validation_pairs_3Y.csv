@@ -1,0 +1,11 @@
+Ticker A,Ticker B,P Value,T Statistic,N Common,Status,BH Adjusted P,BH Significant,Selection Basis,Sector A,Sub-Industry A,Sector B,Sub-Industry B
+ISRG,RVTY,0.0001765330344517662,-4.983501892804832,756,ok,0.1885372807944863,False,Top-p fill (not BH-significant),Health Care,Health Care Equipment,Health Care,Health Care Equipment
+ES,WEC,0.0017446109714851607,-4.405352461683058,756,ok,0.40881026816497307,False,Top-p fill (not BH-significant),Utilities,Electric Utilities,Utilities,Electric Utilities
+CFG,FITB,0.0019353907403762405,-4.377146839735432,756,ok,0.40881026816497307,False,Top-p fill (not BH-significant),Financials,Regional Banks,Financials,Regional Banks
+KLAC,TER,0.002315456606139519,-4.327908537341807,756,ok,0.40881026816497307,False,Top-p fill (not BH-significant),Information Technology,Semiconductor Materials & Equipment,Information Technology,Semiconductor Materials & Equipment
+APA,EOG,0.0028862683740991536,-4.266471974714783,756,ok,0.40881026816497307,False,Top-p fill (not BH-significant),Energy,Oil & Gas Exploration & Production,Energy,Oil & Gas Exploration & Production
+CPRT,CTAS,0.0032589671295746012,-4.232155352580042,756,ok,0.40881026816497307,False,Top-p fill (not BH-significant),Industrials,Diversified Support Services,Industrials,Diversified Support Services
+PODD,RMD,0.004220832159201817,-4.157928797723861,756,ok,0.40881026816497307,False,Top-p fill (not BH-significant),Health Care,Health Care Equipment,Health Care,Health Care Equipment
+D,PCG,0.005274447658707948,-4.092637865754648,756,ok,0.40881026816497307,False,Top-p fill (not BH-significant),Utilities,Multi-Utilities,Utilities,Multi-Utilities
+NSC,UNP,0.005447342395888567,-4.08307979595124,756,ok,0.40881026816497307,False,Top-p fill (not BH-significant),Industrials,Rail Transportation,Industrials,Rail Transportation
+DG,WMT,0.005504744419085363,-4.079967385973741,756,ok,0.40881026816497307,False,Top-p fill (not BH-significant),Consumer Staples,Consumer Staples Merchandise Retail,Consumer Staples,Consumer Staples Merchandise Retail

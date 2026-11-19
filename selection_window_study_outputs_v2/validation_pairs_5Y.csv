@@ -1,0 +1,11 @@
+Ticker A,Ticker B,P Value,T Statistic,N Common,Status,BH Adjusted P,BH Significant,Selection Basis,Sector A,Sub-Industry A,Sector B,Sub-Industry B
+MRSH,WTW,6.345010526532576e-05,-5.220470976400068,1259,ok,0.037828947170918135,True,BH-significant,Financials,Insurance Brokers,Financials,Insurance Brokers
+ABT,STE,8.071889319001092e-05,-5.165669814089308,1259,ok,0.037828947170918135,True,BH-significant,Health Care,Health Care Equipment,Health Care,Health Care Equipment
+PODD,RMD,0.0001084960243907786,-5.0975713677617485,1259,ok,0.037828947170918135,True,BH-significant,Health Care,Health Care Equipment,Health Care,Health Care Equipment
+LRCX,TER,0.0006386827271645305,-4.668512737935069,1259,ok,0.1564173787812626,False,Top-p fill (not BH-significant),Information Technology,Semiconductor Materials & Equipment,Information Technology,Semiconductor Materials & Equipment
+MRK,VTRS,0.0007476930152068002,-4.6283441352480335,1259,ok,0.1564173787812626,False,Top-p fill (not BH-significant),Health Care,Pharmaceuticals,Health Care,Pharmaceuticals
+CPRT,CTAS,0.0009883923657177658,-4.5562476532026155,1259,ok,0.17230973575679717,False,Top-p fill (not BH-significant),Industrials,Diversified Support Services,Industrials,Diversified Support Services
+MA,V,0.0013102974703222703,-4.482099666311773,1259,ok,0.17676791438993836,False,Top-p fill (not BH-significant),Financials,Transaction & Payment Processing Services,Financials,Transaction & Payment Processing Services
+CCI,SBAC,0.0015223800892539732,-4.44207095599868,1259,ok,0.17676791438993836,False,Top-p fill (not BH-significant),Real Estate,Telecom Tower REITs,Real Estate,Telecom Tower REITs
+EOG,FANG,0.0016899418201714949,-4.413963625298801,1259,ok,0.17676791438993836,False,Top-p fill (not BH-significant),Energy,Oil & Gas Exploration & Production,Energy,Oil & Gas Exploration & Production
+LNT,WEC,0.0024682622746657877,-4.310198031905027,1259,ok,0.2347093035727649,False,Top-p fill (not BH-significant),Utilities,Electric Utilities,Utilities,Electric Utilities

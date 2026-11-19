@@ -1,0 +1,11 @@
+Ticker A,Ticker B,P Value,T Statistic,N Common,Status,BH Adjusted P,BH Significant,Selection Basis,Sector A,Sub-Industry A,Sector B,Sub-Industry B
+ES,WEC,1.228471812869104e-05,-5.581066259775192,2517,ok,0.013169217833956796,True,BH-significant,Utilities,Electric Utilities,Utilities,Electric Utilities
+ACGL,CINF,4.1074768041567316e-05,-5.31812531499602,2517,ok,0.02201607567028008,True,BH-significant,Financials,Property & Casualty Insurance,Financials,Property & Casualty Insurance
+CDNS,SNPS,6.75071898997179e-05,-5.206413031910791,2517,ok,0.02412256919083253,True,BH-significant,Information Technology,Application Software,Information Technology,Application Software
+ABT,RMD,0.00045868562474504586,-4.7517012815754365,2517,ok,0.09294787287182016,False,Top-p fill (not BH-significant),Health Care,Health Care Equipment,Health Care,Health Care Equipment
+TECH,TMO,0.0005094307263335116,-4.725503542879676,2517,ok,0.09294787287182016,False,Top-p fill (not BH-significant),Health Care,Life Sciences Tools & Services,Health Care,Life Sciences Tools & Services
+EIX,PPL,0.0005372083217626697,-4.712188621552988,2517,ok,0.09294787287182016,False,Top-p fill (not BH-significant),Utilities,Electric Utilities,Utilities,Electric Utilities
+CRH,MLM,0.0006069357370361391,-4.681428610480387,2517,ok,0.09294787287182016,False,Top-p fill (not BH-significant),Materials,Construction Materials,Materials,Construction Materials
+BDX,BSX,0.0008249822960520124,-4.6030748475254715,2517,ok,0.11054762767096966,False,Top-p fill (not BH-significant),Health Care,Health Care Equipment,Health Care,Health Care Equipment
+ADI,TXN,0.0010676199734732516,-4.536103739495072,2517,ok,0.11657200214985189,False,Top-p fill (not BH-significant),Information Technology,Semiconductors,Information Technology,Semiconductors
+LRCX,TER,0.0011440968668200813,-4.5179440358129845,2517,ok,0.11657200214985189,False,Top-p fill (not BH-significant),Information Technology,Semiconductor Materials & Equipment,Information Technology,Semiconductor Materials & Equipment

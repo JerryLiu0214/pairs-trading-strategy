@@ -1,0 +1,6 @@
+Ticker A,Ticker B,P Value,T Statistic,N Common,Status,BH Adjusted P,BH Significant,Selection Basis,Sector A,Sub-Industry A,Sector B,Sub-Industry B
+FSLR,QCOM,3.8773765176918954e-05,-5.330947304792477,253,ok,0.025856570227524807,True,BH-significant,Information Technology,Semiconductors,Information Technology,Semiconductors
+AVY,IP,6.28435898430377e-05,-5.222646305677416,253,ok,0.025856570227524807,True,BH-significant,Materials,Paper & Plastic Packaging Products & Materials,Materials,Paper & Plastic Packaging Products & Materials
+INTU,TRMB,7.71070682729368e-05,-5.176133843611957,253,ok,0.025856570227524807,True,BH-significant,Information Technology,Application Software,Information Technology,Application Software
+TDG,TXT,0.00010742971032144892,-5.099859817488258,253,ok,0.027018572145844407,True,BH-significant,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+DHR,TMO,0.0001446869274727345,-5.03042697352122,253,ok,0.02911100980751418,True,BH-significant,Health Care,Life Sciences Tools & Services,Health Care,Life Sciences Tools & Services
